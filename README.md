@@ -1,7 +1,7 @@
 
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Amadeus075&count_private=true&show_icons=true&theme=tokyonight" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeus075&layout=compact&theme=tokyonight" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Amadeus075&count_private=true&show_icons=true&theme=tokyonight" /><span>&emsp;&emsp;</span><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeus075&layout=compact&theme=tokyonight" />
 <span>&emsp;&emsp;</span>
 </div>
 
