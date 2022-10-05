@@ -1,6 +1,14 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amadeus075&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Amadeus075&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Amadeus075&count_private=true&show_icons=true&theme=tokyonight" /><span>&emsp;&emsp;</span><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeus075&layout=compact&theme=tokyonight" />
+<span>&emsp;&emsp;</span>
+</div>
+
+<div align="center">
+    <img  src="https://activity-graph.herokuapp.com/graph?username=Amadeus075&theme=tokyo-night" />
+</div>
+
 
 <!--
 **Amadeus075/Amadeus075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
