@@ -1,17 +1,17 @@
 
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="150px" src="https://github-readme-stats-md2pnao1q-amadeus075.vercel.app/api?username=Amadeus075&count_private=true&show_icons=true&theme=tokyonight" /><span>&emsp;&emsp;</span><img height="150px" src="https://github-readme-stats-md2pnao1q-amadeus075.vercel.app/api/top-langs/?username=amadeus075&layout=compact&theme=tokyonight" />
+<img height="150px" src="https://github-readme-stats-md2pnao1q-amadeus1240.vercel.app/api?username=Amadeus1240&count_private=true&show_icons=true&theme=tokyonight" /><span>&emsp;&emsp;</span><img height="150px" src="https://github-readme-stats-md2pnao1q-amadeus1240.vercel.app/api/top-langs/?username=amadeus1240&layout=compact&theme=tokyonight" />
 <span>&emsp;&emsp;</span>
 </div>
 
 <div align="center">
-    <img  src="https://activity-graph.herokuapp.com/graph?username=Amadeus075&theme=tokyo-night" />
+    <img  src="https://activity-graph.herokuapp.com/graph?username=Amadeus1240&theme=tokyo-night" />
 </div>
 
 
 <!--
-**Amadeus075/Amadeus075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Amadeus1240/Amadeus1240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
