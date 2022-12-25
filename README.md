@@ -5,9 +5,9 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img  src="https://activity-graph.herokuapp.com/graph?username=Amadeus1240&theme=tokyo-night" />
-</div>
+</div> -->
 
 
 <!--
